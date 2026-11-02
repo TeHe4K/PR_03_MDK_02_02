@@ -1,3 +1,5 @@
 <Solution>
-  <Project Path="Pr_03_Mdk_0202/Pr_03_Mdk_0202.csproj" />
+  <Project Path="Common/Common.csproj" Id="816aa499-df15-4aaa-8f3e-bcd2d12959a4" />
+  <Project Path="Pr_03_Mdk_0202/Pr_03_Mdk_0202.csproj" Id="545347eb-b51b-4025-a8c5-31dfd12128f6" />
+  <Project Path="Snake/Snake.csproj" Id="d7979208-5d9b-4247-a152-30e125fff5be" />
 </Solution>
